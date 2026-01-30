@@ -18,4 +18,3 @@ user1.display_user()
 user2.display_user()
 user3.display_user()
         
-        

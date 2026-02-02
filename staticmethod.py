@@ -21,5 +21,3 @@ account=Bank_Account("Soham", 0)
 account.deposit(200000)
 
 
-
-account.withdrawal(20000)
